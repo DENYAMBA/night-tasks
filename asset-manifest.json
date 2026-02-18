@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.2895c17f.css",
-    "main.js": "/static/js/main.8d6ea268.js",
-    "index.html": "/index.html",
-    "main.2895c17f.css.map": "/static/css/main.2895c17f.css.map",
-    "main.8d6ea268.js.map": "/static/js/main.8d6ea268.js.map"
+    "main.css": "/night-tasks/static/css/main.2895c17f.css",
+    "main.js": "/night-tasks/static/js/main.8d6ea268.js",
+    "index.html": "/night-tasks/index.html",
+    "main.2895c17f.css.map": "/night-tasks/static/css/main.2895c17f.css.map",
+    "main.8d6ea268.js.map": "/night-tasks/static/js/main.8d6ea268.js.map"
   },
   "entrypoints": [
     "static/css/main.2895c17f.css",
