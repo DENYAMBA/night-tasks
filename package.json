@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "homepage": "https://zyxxie-creator.github.io/tma-react-ts/",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-
-  },
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+},
   "keywords": [
     "telegram",
     "react",
